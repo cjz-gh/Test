@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\bin\Debug\WpfTest1.exe.config
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\bin\Debug\WpfTest1.exe
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\bin\Debug\WpfTest1.pdb
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\WpfTest1.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\WpfTest1_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\WpfTest1_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\WpfTest1.g.resources
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\WpfTest1.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\WpfTest1.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\WpfTest1.exe
+D:\wpf学习\MyFirstWpfApplication\WpfTest1\obj\Debug\WpfTest1.pdb

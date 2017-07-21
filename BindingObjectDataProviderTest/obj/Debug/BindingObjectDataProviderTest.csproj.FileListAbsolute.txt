@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\bin\Debug\BindingObjectDataProviderTest.exe.config
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\bin\Debug\BindingObjectDataProviderTest.exe
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\bin\Debug\BindingObjectDataProviderTest.pdb
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\BindingObjectDataProviderTest_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\BindingObjectDataProviderTest_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\BindingObjectDataProviderTest.g.resources
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\BindingObjectDataProviderTest.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\BindingObjectDataProviderTest.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\BindingObjectDataProviderTest.exe
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\BindingObjectDataProviderTest.pdb
+D:\wpf学习\MyFirstWpfApplication\BindingObjectDataProviderTest\obj\Debug\BindingObjectDataProviderTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\bin\Debug\EnventTiggerTest.exe.config
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\bin\Debug\EnventTiggerTest.exe
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\bin\Debug\EnventTiggerTest.pdb
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\EnventTiggerTest.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\EnventTiggerTest_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\EnventTiggerTest_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\EnventTiggerTest.g.resources
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\EnventTiggerTest.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\EnventTiggerTest.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\EnventTiggerTest.exe
+D:\wpf学习\MyFirstWpfApplication\EnventTiggerTest\obj\Debug\EnventTiggerTest.pdb

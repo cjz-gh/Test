@@ -1,0 +1,34 @@
+﻿<Window x:Class="EnventTiggerTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EnventTiggerTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation To="150" Duration="0:0:0.2" Storyboard.TargetProperty="Width"/>
+                            <DoubleAnimation To="150" Duration="0:0:2" Storyboard.TargetProperty="Height"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                <EventTrigger RoutedEvent="MouseLeave">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Duration="0:0:2" Storyboard.TargetProperty="Width"/>
+                            <DoubleAnimation Duration="0:0:0.2" Storyboard.TargetProperty="Height"/>
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Canvas>
+        <Button Width="40" Height="40" Content="Ok"/>
+    </Canvas>
+</Window>

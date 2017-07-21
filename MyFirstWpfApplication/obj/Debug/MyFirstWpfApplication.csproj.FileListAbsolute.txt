@@ -1,0 +1,17 @@
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\bin\Debug\MyFirstWpfApplication.exe.config
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\bin\Debug\MyFirstWpfApplication.exe
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\bin\Debug\MyFirstWpfApplication.pdb
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MyFirstWpfApplication.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MyFirstWpfApplication_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MyFirstWpfApplication_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MyFirstWpfApplication.g.resources
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MyFirstWpfApplication.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MyFirstWpfApplication.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MyFirstWpfApplication.exe
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\MyFirstWpfApplication.pdb
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\Window1.g.cs
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\wpf学习\MyFirstWpfApplication\MyFirstWpfApplication\obj\Debug\Window1.baml

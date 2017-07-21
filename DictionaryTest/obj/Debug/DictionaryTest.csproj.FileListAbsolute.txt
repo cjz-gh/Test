@@ -1,0 +1,16 @@
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\bin\Debug\DictionaryTest.exe.config
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\bin\Debug\DictionaryTest.exe
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\bin\Debug\DictionaryTest.pdb
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\DictionaryTest.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\DictionaryTest_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\DictionaryTest_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\DictionaryTest.g.resources
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\DictionaryTest.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\DictionaryTest.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\DictionaryTest.exe
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\DictionaryTest.pdb
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\obj\Debug\DictionaryTest_Content.g.cs
+D:\wpf学习\MyFirstWpfApplication\DictionaryTest\bin\Debug\Resources\Data\test.accdb

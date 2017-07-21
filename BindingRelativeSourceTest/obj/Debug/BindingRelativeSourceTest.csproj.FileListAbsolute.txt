@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\bin\Debug\BindingRelativeSourceTest.exe.config
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\bin\Debug\BindingRelativeSourceTest.exe
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\bin\Debug\BindingRelativeSourceTest.pdb
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\BindingRelativeSourceTest.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\BindingRelativeSourceTest_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\BindingRelativeSourceTest_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\BindingRelativeSourceTest.g.resources
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\BindingRelativeSourceTest.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\BindingRelativeSourceTest.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\BindingRelativeSourceTest.exe
+D:\wpf学习\MyFirstWpfApplication\BindingRelativeSourceTest\obj\Debug\BindingRelativeSourceTest.pdb

@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\bin\Debug\RouteEnventTest.exe.config
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\bin\Debug\RouteEnventTest.exe
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\bin\Debug\RouteEnventTest.pdb
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\RouteEnventTest.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\RouteEnventTest_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\RouteEnventTest_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\RouteEnventTest.g.resources
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\RouteEnventTest.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\RouteEnventTest.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\RouteEnventTest.exe
+D:\wpf学习\MyFirstWpfApplication\RouteEnventTest\obj\Debug\RouteEnventTest.pdb

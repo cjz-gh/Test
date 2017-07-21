@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\bin\Debug\MultibindingTest.exe.config
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\bin\Debug\MultibindingTest.exe
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\bin\Debug\MultibindingTest.pdb
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MultibindingTest.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MultibindingTest_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MultibindingTest_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MultibindingTest.g.resources
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MultibindingTest.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MultibindingTest.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MultibindingTest.exe
+D:\wpf学习\MyFirstWpfApplication\MultibindingTest\obj\Debug\MultibindingTest.pdb

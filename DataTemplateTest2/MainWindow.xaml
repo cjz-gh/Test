@@ -1,0 +1,21 @@
+﻿<Window x:Class="DataTemplateTest2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataTemplateTest2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <XmlDataProvider x:Key="ds" Source="Data.xml" XPath="Data/Operation"/>
+        <HierarchicalDataTemplate DataType="Operation" ItemsSource="{Binding XPath=Operation}">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding XPath=@Name}"/>
+                <TextBlock Text="{Binding XPath=@Gesture}"/>
+            </StackPanel>
+        </HierarchicalDataTemplate>
+    </Window.Resources>
+    <StackPanel MenuItem.Click="StackPanel_Click">
+        <Menu ItemsSource="{Binding Source={StaticResource ds}}"/>
+    </StackPanel>
+</Window>

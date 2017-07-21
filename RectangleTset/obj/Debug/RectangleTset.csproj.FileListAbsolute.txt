@@ -1,0 +1,16 @@
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\bin\Debug\RectangleTset.exe.config
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\bin\Debug\RectangleTset.exe
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\bin\Debug\RectangleTset.pdb
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\RectangleTset.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\RectangleTset_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\RectangleTset_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\RectangleTset.g.resources
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\RectangleTset.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\RectangleTset.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\RectangleTset.exe
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\RectangleTset.pdb
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\bin\Debug\Resources\Data\数据库1.accdb
+D:\wpf学习\MyFirstWpfApplication\RectangleTset\obj\Debug\RectangleTset_Content.g.cs

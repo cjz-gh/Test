@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\bin\Debug\WpfUseBlinding.exe.config
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\bin\Debug\WpfUseBlinding.exe
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\bin\Debug\WpfUseBlinding.pdb
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\WpfUseBlinding.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\WpfUseBlinding_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\WpfUseBlinding_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\WpfUseBlinding.g.resources
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\WpfUseBlinding.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\WpfUseBlinding.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\WpfUseBlinding.exe
+D:\wpf学习\MyFirstWpfApplication\WpfUseBlinding\obj\Debug\WpfUseBlinding.pdb

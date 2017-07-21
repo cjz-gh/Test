@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\bin\Debug\DataTemplateTest2.exe.config
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\bin\Debug\DataTemplateTest2.exe
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\bin\Debug\DataTemplateTest2.pdb
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\DataTemplateTest2.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\DataTemplateTest2_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\DataTemplateTest2_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\DataTemplateTest2.g.resources
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\DataTemplateTest2.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\DataTemplateTest2.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\DataTemplateTest2.exe
+D:\wpf学习\MyFirstWpfApplication\DataTemplateTest2\obj\Debug\DataTemplateTest2.pdb

@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\bin\Debug\CommandTest2.exe.config
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\bin\Debug\CommandTest2.exe
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\bin\Debug\CommandTest2.pdb
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\CommandTest2.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\CommandTest2_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\CommandTest2_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\CommandTest2.g.resources
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\CommandTest2.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\CommandTest2.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\CommandTest2.exe
+D:\wpf学习\MyFirstWpfApplication\CommandTest2\obj\Debug\CommandTest2.pdb

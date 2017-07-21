@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\bin\Debug\RouteExentsTest2.exe.config
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\bin\Debug\RouteExentsTest2.exe
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\bin\Debug\RouteExentsTest2.pdb
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\RouteExentsTest2.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\RouteExentsTest2_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\RouteExentsTest2_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\RouteExentsTest2.g.resources
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\RouteExentsTest2.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\RouteExentsTest2.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\RouteExentsTest2.exe
+D:\wpf学习\MyFirstWpfApplication\RouteExentsTest2\obj\Debug\RouteExentsTest2.pdb

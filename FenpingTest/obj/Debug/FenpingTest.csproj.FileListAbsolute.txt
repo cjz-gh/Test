@@ -1,0 +1,13 @@
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\bin\Debug\FenpingTest.exe.config
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\bin\Debug\FenpingTest.exe
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\bin\Debug\FenpingTest.pdb
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\FenpingTest.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\FenpingTest_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\FenpingTest.g.resources
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\FenpingTest.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\FenpingTest.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\FenpingTest.exe
+D:\wpf学习\MyFirstWpfApplication\FenpingTest\obj\Debug\FenpingTest.pdb

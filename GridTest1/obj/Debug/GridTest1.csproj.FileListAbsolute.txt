@@ -1,0 +1,14 @@
+D:\wpf学习\MyFirstWpfApplication\GridTest1\bin\Debug\GridTest1.exe.config
+D:\wpf学习\MyFirstWpfApplication\GridTest1\bin\Debug\GridTest1.exe
+D:\wpf学习\MyFirstWpfApplication\GridTest1\bin\Debug\GridTest1.pdb
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\GridTest1.csprojResolveAssemblyReference.cache
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\MainWindow.g.cs
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\App.g.cs
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\GridTest1_MarkupCompile.cache
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\GridTest1_MarkupCompile.lref
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\MainWindow.baml
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\GridTest1.g.resources
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\GridTest1.Properties.Resources.resources
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\GridTest1.csproj.GenerateResource.Cache
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\GridTest1.exe
+D:\wpf学习\MyFirstWpfApplication\GridTest1\obj\Debug\GridTest1.pdb

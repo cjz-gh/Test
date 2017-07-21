@@ -1,0 +1,33 @@
+﻿<Window x:Class="DictionaryTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DictionaryTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="550">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBox MinWidth="180" Grid.Column="0" Grid.Row="0" Name="searchTextBox"></TextBox>
+            <Button Grid.Column="1" Name="add" Click="add_Click" >查找</Button>
+            <Label Name="resultShow" Grid.Row="1"></Label>
+            <ListView  Name="listView" Grid.Row="1" Grid.Column="1">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="English" Width="auto" DisplayMemberBinding="{Binding English}"></GridViewColumn>
+                        <GridViewColumn Header="Chinese" Width="auto" DisplayMemberBinding="{Binding Chinese}"/>
+                        <GridViewColumn Header="Count" Width="auto" DisplayMemberBinding="{Binding Count}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>
